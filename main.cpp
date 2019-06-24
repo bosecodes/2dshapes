@@ -1,5 +1,8 @@
 /* N.B. : I'VE USED THE GOTO APPROACH HERE, but you might not use it in your own code, it is absolutely possible to write the code without
-using goto statements*/
+using goto statements.*/
+
+//All rights reserved
+// JOKING!
 
 #include <bits/stdc++.h>
 
