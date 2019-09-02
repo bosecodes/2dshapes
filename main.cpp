@@ -4,6 +4,8 @@ using goto statements.*/
 //All rights reserved
 // JOKING!
 
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
